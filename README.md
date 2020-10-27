@@ -1,7 +1,5 @@
 # CafePud
 
-A little info about your project and/ or overview that explains **what** the project is about.
-
 CafePud is a coffee recipe app that you can use to create or explore recipes. Users can register an account to save personal recipes and start using them with a click of a button.
 
 You'll be able to explore other recipes that users have shared, and you can tweak them to your liking. This should allow you to search for different recipes by their properties.
@@ -45,7 +43,11 @@ This is a screenshot for the preliminary design
 
 ### Back end
 
-- [ ] Set up database schema
+- [x] Set up database schema
+  - [x] user
+  - [x] recipe
+  - [x] measurements
+  - [x] recipe_step
 - [ ] User setup
 - [ ] Set up auth routes for login/register
 - [ ] Create recipe functionality
